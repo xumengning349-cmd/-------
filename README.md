@@ -226,4 +226,5 @@ UIS.InputEnded:Connect(function(i)
     if i.UserInputType == Enum.UserInputType.MouseButton1 then drag = false end
 end)
 
-refresh(false)腦子不行
+refresh(false)
+
